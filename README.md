@@ -1,10 +1,12 @@
-# Basic CTF Challanges : 
+# CTF Challanges : 
 
 [Crypto ~ 1](https://github.com/CyberKnight00/CTF/blob/master/blaCTF(Crypto%201).txt)
 
 [Crypto ~ 2](https://github.com/CyberKnight00/CTF/blob/master/blaCTF(Crypto%202).txt)
 
 [Miscellaneous ~ 1](https://github.com/CyberKnight00/CTF/blob/master/blablablakship)
+
+[VIIT CTF V2 Reversing challanges](REV_VIITCTF.zip)
 # Vulnerable Machines
 
 ## CK-Series
